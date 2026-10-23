@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #FFF2F2;
+}
+
+.header {
+    background-color: #5E3122;
+    width: 100%;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.course {
+    background-color: #5E3122;
+    width: 100%;
+    color: white;
+    padding: 15px;
+}
+
+.description {
+    background-color: #5e4422;
+    margin-top: 20px;
+    width: 100%;
+    color: #FFF2F2;
+    padding: 15px;
+
+}
+
+.main {
+    background-color: #FCF9EA;
+
+}
+
+.frontend {
+    background-color: #F2A67B;
+    margin-top: 15px;
+    padding: 20px;
+    border: 1 px solid black;
+}
+
+.backend {
+    background-color: #C49A45;
+    margin-top: 15px;
+    padding: 15 px;
+    border: 1 px solid black;
+
+}
+
+.database {
+    background-color: #8B5E3C;
+    border: 1px solid blue;
+    margin-top: 15px;
+    padding: 20px;
+}
+
+.programming {
+    background-color: #995F2F;
+    border: 1px dotted black;
+    margin-top: 15 px;
+    padding: 20px;
+}
+
+.course-module {
+    background-color: #A77F60;
+    border: 1px solid lightsalmon;
+    margin-top: 15 px;
+    padding: 20px;
+}
+ul{
+    padding: 20px;
+}
+
+.tech-desc{
+    background-color: #A47251;
+    border: 1px solid cyan;
+    margin-top: 15px;
+    padding: 20px;
+}
+
+.dev{
+    background-color: #8C5A3C;
+    border: 1px solid lightgoldenrodyellow;
+    margin-top: 15px ;
+    padding: 20px;
+}
+
+
+.eligibility {
+    background-color: #FCE7F3;
+    color: #9D4778;
+    width: 100%;
+    border: 1px solid #FFAE6E;
+    padding: 15px;
+}
+
+.schedule {
+    background-color: #FEF3C7;
+    color: #92400E;
+    width: 100%;
+    border: 1px solid #FFAE6E;
+    padding: 15px;
+}
+
+.note {
+    background-color: #FFE4E6;
+    color: #9F1239;
+    width: 100%;
+    border: 1px solid #FFAE6E;
+    padding: 15px;
+}
+
+.examples {
+    background-color: #CCFBF1;
+    color: #115E59;
+    width: 100%;
+    border: 1px solid #FFAE6E;
+    padding: 15px;
+}
+
+.table-section {
+    background-color: #E0F2FE;
+    color: #1E40AF;
+    width: 100%;
+    border: 1px solid #FFAE6E;
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #FFAE6E;
+}
+
+th {
+    background-color: #BFDBFE;
+    color: #1E3A8A;
+    padding: 10px;
+    border: 1px solid #FFAE6E;
+}
+
+.box-one {
+    background-color: #D1FAE5;
+    height: 100px;
+    width: 100px;
+    padding-top: 40px;
+    border: 2px solid #6EE7B7;
+    margin-top: 20px;
+    color: #065F46;
+}
+
+.box-two {
+    border-top: 2px solid #F9A8D4;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-left: 2px solid #C4B5FD;
+    border-right: 2px solid #7DD3FC;
+    border-bottom: 2px solid #86EFAC;
+    color: #166534;
+    background-color: #F3F4F6;
+}
+
+
